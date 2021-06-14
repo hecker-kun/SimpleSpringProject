@@ -3,5 +3,5 @@
 ### Application launch
 
 To run the application just enter the command  
-```./gradlew clean build && java -jar _path_to_jar_```  
+```./gradlew clean build && java -jar *path_to_jar*```  
 In PowerShell, use the separator ";" instead of "&&"
