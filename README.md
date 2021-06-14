@@ -3,5 +3,5 @@
 ### Application launch
 
 To run the application just enter the command  
-```./gradlew clean build && java -jar build/libs/Kira-0.0.1-SNAPSHOT.jar```  
+```./gradlew clean build && java -jar _path_to_jar_```  
 In PowerShell, use the separator ";" instead of "&&"
